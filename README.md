@@ -1,1 +1,1 @@
-# -Logistic-Regression-on-the-Titanic-Dataset
+# Logistic-Regression-on-the-Titanic-Dataset
